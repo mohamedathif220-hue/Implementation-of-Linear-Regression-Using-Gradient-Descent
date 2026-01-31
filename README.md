@@ -23,7 +23,7 @@ Program to implement the linear regression using gradient descent.
 Developed by: athif
 RegisterNumber:  25011374
 */
-```
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -76,6 +76,7 @@ plt.show()
 
 print("Final weight (w):",w)
 print("Final bias (b)",b)
+```
 ## Output:
 <img width="1311" height="584" alt="Screenshot 2026-01-31 112850" src="https://github.com/user-attachments/assets/6a34f366-de21-4e3a-937a-d929aef97a83" />
 
